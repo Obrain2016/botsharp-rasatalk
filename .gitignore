@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/Botsharp.Platform.RasaTalk/v15
+/Botsharp.Platform.RasaTalk/bin
+/Botsharp.Platform.RasaTalk/obj
